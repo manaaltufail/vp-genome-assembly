@@ -128,7 +128,7 @@ Results:
 | Expected genome size | 11,747,160 bp | 11,747,160 bp |
 
 Hap1 has exactly 16 contigs matching the 
-16 chromosomes of S. cerevisiae! ✅
+16 chromosomes of S. cerevisiae! 
 
 ---
 
@@ -148,7 +148,7 @@ Results:
 | Both | 79.74 | Exceptional quality! |
 
 Note: Expected QV was ~40. 
-Achieved QV of 79.74 far exceeds expectations! 🌟
+Achieved QV of 79.74 far exceeds expectations! 
 
 ---
 
@@ -195,7 +195,7 @@ Final contact map (after YaHS):
 ![Final Contact Map](images/07_final_contact_map.png)
 
 Strong diagonal signals confirm correct 
-chromosome-level scaffolding! ✅
+chromosome-level scaffolding! 
 
 ---
 
@@ -203,13 +203,13 @@ Results Summary
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| Genome size | ~11.7 Mb | ✅ Matches reference |
-| Hap1 contigs | 16 | ✅ Matches chromosomes |
-| Hap2 contigs | 17 | ✅ Expected |
-| QV Score | 79.74 | 🌟 Exceptional |
-| Heterozygosity | 0.576% | ✅ Normal for yeast |
-| Model fit | 92-96% | ✅ Good fit |
-| Assembly level | Chromosome | ✅ Goal achieved |
+| Genome size | ~11.7 Mb |  Matches reference |
+| Hap1 contigs | 16 |  Matches chromosomes |
+| Hap2 contigs | 17 |  Expected |
+| QV Score | 79.74 |  Exceptional |
+| Heterozygosity | 0.576% | Normal for yeast |
+| Model fit | 92-96% |  Good fit |
+| Assembly level | Chromosome |  Goal achieved |
 
 ---
 Tools & Versions
